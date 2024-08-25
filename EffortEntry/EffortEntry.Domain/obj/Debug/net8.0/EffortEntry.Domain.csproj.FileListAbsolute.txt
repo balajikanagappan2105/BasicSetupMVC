@@ -1,0 +1,11 @@
+D:\Temp\EffortEntry\EffortEntry.Domain\bin\Debug\net8.0\EffortEntry.Domain.deps.json
+D:\Temp\EffortEntry\EffortEntry.Domain\bin\Debug\net8.0\EffortEntry.Domain.dll
+D:\Temp\EffortEntry\EffortEntry.Domain\bin\Debug\net8.0\EffortEntry.Domain.pdb
+D:\Temp\EffortEntry\EffortEntry.Domain\obj\Debug\net8.0\EffortEntry.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\EffortEntry\EffortEntry.Domain\obj\Debug\net8.0\EffortEntry.Domain.AssemblyInfoInputs.cache
+D:\Temp\EffortEntry\EffortEntry.Domain\obj\Debug\net8.0\EffortEntry.Domain.AssemblyInfo.cs
+D:\Temp\EffortEntry\EffortEntry.Domain\obj\Debug\net8.0\EffortEntry.Domain.csproj.CoreCompileInputs.cache
+D:\Temp\EffortEntry\EffortEntry.Domain\obj\Debug\net8.0\EffortEntry.Domain.dll
+D:\Temp\EffortEntry\EffortEntry.Domain\obj\Debug\net8.0\refint\EffortEntry.Domain.dll
+D:\Temp\EffortEntry\EffortEntry.Domain\obj\Debug\net8.0\EffortEntry.Domain.pdb
+D:\Temp\EffortEntry\EffortEntry.Domain\obj\Debug\net8.0\ref\EffortEntry.Domain.dll

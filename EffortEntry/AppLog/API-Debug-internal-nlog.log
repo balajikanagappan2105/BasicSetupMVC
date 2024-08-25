@@ -1,0 +1,74 @@
+2024-08-23 22:50:20.0178 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-23 22:50:20.0178 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-23 22:50:20.0293 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-23 22:50:20.0293 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-23 22:50:20.0424 Info Configuration initialized.
+2024-08-23 22:50:20.3051 Info AppDomain Shutting down. LogFactory closing...
+2024-08-23 22:50:20.3140 Info LogFactory has been closed.
+2024-08-23 22:51:19.7025 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-23 22:51:19.7025 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-23 22:51:19.7153 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-23 22:51:19.7153 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-23 22:51:19.7318 Info Configuration initialized.
+2024-08-23 22:51:19.8774 Info AppDomain Shutting down. LogFactory closing...
+2024-08-23 22:51:19.8868 Info LogFactory has been closed.
+2024-08-23 22:54:19.4201 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-23 22:54:19.4269 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-23 22:54:19.4269 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-23 22:54:19.4269 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-23 22:54:19.4490 Info Configuration initialized.
+2024-08-23 22:54:19.5664 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-23 22:54:43.5001 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-23 22:54:43.5065 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-23 22:54:43.5065 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-23 22:54:43.5208 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-23 22:54:43.5208 Info Configuration initialized.
+2024-08-23 22:54:43.6458 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-23 22:56:25.5221 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-23 22:56:25.5221 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-23 22:56:25.5342 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-23 22:56:25.5342 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-23 22:56:25.5496 Info Configuration initialized.
+2024-08-23 22:56:25.6710 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 15:58:21.0616 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-24 15:58:21.0616 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-24 15:58:21.0768 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-24 15:58:21.0868 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 15:58:21.0868 Info Configuration initialized.
+2024-08-24 15:58:21.2283 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 15:59:41.0937 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-24 15:59:41.1013 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-24 15:59:41.1013 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-24 15:59:41.1150 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 15:59:41.1150 Info Configuration initialized.
+2024-08-24 15:59:41.2422 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:00:08.7887 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-24 16:00:08.7967 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-24 16:00:08.8127 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-24 16:00:08.8292 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:00:08.8431 Info Configuration initialized.
+2024-08-24 16:00:09.5141 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:20:42.3388 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-24 16:20:42.3475 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-24 16:20:42.3648 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-24 16:20:42.3879 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:20:42.4045 Info Configuration initialized.
+2024-08-24 16:20:43.1295 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:21:30.7685 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-24 16:21:30.7789 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-24 16:21:30.7940 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-24 16:21:30.8129 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:21:30.8262 Info Configuration initialized.
+2024-08-24 16:21:31.5593 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:25:01.5618 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-24 16:25:01.5728 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-24 16:25:01.5891 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-24 16:25:01.6056 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:25:01.6185 Info Configuration initialized.
+2024-08-24 16:25:02.3655 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:26:13.8153 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-08-24 16:26:13.8264 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-08-24 16:26:13.8432 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.3.2683. Product version: 5.3.3+341c753ad4dce4dd476dcf0bc3ff2cfd9db76493. GlobalAssemblyCache: False
+2024-08-24 16:26:13.8614 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config
+2024-08-24 16:26:13.8735 Info Configuration initialized.
+2024-08-24 16:26:14.5093 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Temp\EffortEntry\EffortEntry\bin\Debug\net8.0\nlog.config

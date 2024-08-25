@@ -1,0 +1,8 @@
+2024-08-23 22:50:20.0424||DEBUG|EffortEntry.Program|init main |url: |action: 
+2024-08-23 22:51:19.7318||DEBUG|EffortEntry.Program|init main |url: |action: 
+2024-08-23 22:54:19.4490||DEBUG|EffortEntry.Program|init main |url: |action: 
+2024-08-23 22:54:19.8437||WARN|Microsoft.EntityFrameworkCore.Model.Validation|Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. |url: |action: 
+2024-08-23 22:54:43.5360||DEBUG|EffortEntry.Program|init main |url: |action: 
+2024-08-23 22:54:43.9203||WARN|Microsoft.EntityFrameworkCore.Model.Validation|Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. |url: |action: 
+2024-08-23 22:56:25.5496||DEBUG|EffortEntry.Program|init main |url: |action: 
+2024-08-23 22:56:25.9453||WARN|Microsoft.EntityFrameworkCore.Model.Validation|Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. |url: |action: 

@@ -1,0 +1,25 @@
+2024-08-23 22:50:20.0424||DEBUG|EffortEntry.Program|init main 
+2024-08-23 22:51:19.7318||DEBUG|EffortEntry.Program|init main 
+2024-08-23 22:54:19.4490||DEBUG|EffortEntry.Program|init main 
+2024-08-23 22:54:19.6338||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework. 
+2024-08-23 22:54:19.8437||WARN|Microsoft.EntityFrameworkCore.Model.Validation|Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. 
+2024-08-23 22:54:19.9290||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 8.0.8 initialized 'DBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.8' with options: SensitiveDataLoggingEnabled DetailedErrorsEnabled  
+2024-08-23 22:54:20.2767||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'DBContext' disposed. 
+2024-08-23 22:54:43.5360||DEBUG|EffortEntry.Program|init main 
+2024-08-23 22:54:43.7102||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework. 
+2024-08-23 22:54:43.9203||WARN|Microsoft.EntityFrameworkCore.Model.Validation|Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. 
+2024-08-23 22:54:44.0075||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 8.0.8 initialized 'DBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.8' with options: SensitiveDataLoggingEnabled DetailedErrorsEnabled  
+2024-08-23 22:54:44.0075||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2024-08-23 22:54:44.0280||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'DBContext' disposed. 
+2024-08-23 22:56:25.5496||DEBUG|EffortEntry.Program|init main 
+2024-08-23 22:56:25.7354||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework. 
+2024-08-23 22:56:25.9453||WARN|Microsoft.EntityFrameworkCore.Model.Validation|Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development. 
+2024-08-23 22:56:26.0273||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 8.0.8 initialized 'DBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.8' with options: SensitiveDataLoggingEnabled DetailedErrorsEnabled  
+2024-08-23 22:56:26.0369||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Creating DbConnection. 
+2024-08-23 22:56:26.0500||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Created DbConnection. (10ms). 
+2024-08-23 22:56:26.0500||DEBUG|Microsoft.EntityFrameworkCore.Migrations|Migrating using database 'AuthTest' on server 'SANDCASTLE01'. 
+2024-08-23 22:56:26.0500||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Opening connection to database 'AuthTest' on server 'SANDCASTLE01'. 
+2024-08-23 22:56:40.3511||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|An error occurred using the connection to database 'AuthTest' on server 'SANDCASTLE01'. 
+2024-08-23 22:56:40.3511||DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|'DBContext' disposed. 
+2024-08-23 22:56:40.3511||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposing connection to database 'AuthTest' on server 'SANDCASTLE01'. 
+2024-08-23 22:56:40.3593||DEBUG|Microsoft.EntityFrameworkCore.Database.Connection|Disposed connection to database '' on server '' (0ms). 

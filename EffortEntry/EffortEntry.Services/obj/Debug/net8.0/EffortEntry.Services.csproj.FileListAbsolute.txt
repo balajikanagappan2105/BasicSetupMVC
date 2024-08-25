@@ -1,0 +1,17 @@
+D:\Temp\EffortEntry\EffortEntry.Services\bin\Debug\net8.0\EffortEntry.Services.deps.json
+D:\Temp\EffortEntry\EffortEntry.Services\bin\Debug\net8.0\EffortEntry.Services.dll
+D:\Temp\EffortEntry\EffortEntry.Services\bin\Debug\net8.0\EffortEntry.Services.pdb
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\EffortEntry.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\EffortEntry.Services.AssemblyInfoInputs.cache
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\EffortEntry.Services.AssemblyInfo.cs
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\EffortEntry.Services.csproj.CoreCompileInputs.cache
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\EffortEntry.Services.dll
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\refint\EffortEntry.Services.dll
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\EffortEntry.Services.pdb
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\ref\EffortEntry.Services.dll
+D:\Temp\EffortEntry\EffortEntry.Services\bin\Debug\net8.0\EffortEntry.Domain.dll
+D:\Temp\EffortEntry\EffortEntry.Services\bin\Debug\net8.0\EffortEntry.Repository.dll
+D:\Temp\EffortEntry\EffortEntry.Services\bin\Debug\net8.0\EffortEntry.Domain.pdb
+D:\Temp\EffortEntry\EffortEntry.Services\bin\Debug\net8.0\EffortEntry.Repository.pdb
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\EffortEntry.Services.csproj.AssemblyReference.cache
+D:\Temp\EffortEntry\EffortEntry.Services\obj\Debug\net8.0\EffortEn.F34DC6D8.Up2Date

@@ -1,0 +1,14 @@
+D:\Temp\EffortEntry\EffortEntry.Repository\bin\Debug\net8.0\EffortEntry.Repository.deps.json
+D:\Temp\EffortEntry\EffortEntry.Repository\bin\Debug\net8.0\EffortEntry.Repository.dll
+D:\Temp\EffortEntry\EffortEntry.Repository\bin\Debug\net8.0\EffortEntry.Repository.pdb
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\EffortEntry.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\EffortEntry.Repository.AssemblyInfoInputs.cache
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\EffortEntry.Repository.AssemblyInfo.cs
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\EffortEntry.Repository.csproj.CoreCompileInputs.cache
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\EffortEntry.Repository.dll
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\refint\EffortEntry.Repository.dll
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\EffortEntry.Repository.pdb
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\ref\EffortEntry.Repository.dll
+D:\Temp\EffortEntry\EffortEntry.Repository\bin\Debug\net8.0\EffortEntry.Repository.runtimeconfig.json
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\EffortEntry.Repository.csproj.AssemblyReference.cache
+D:\Temp\EffortEntry\EffortEntry.Repository\obj\Debug\net8.0\EffortEntry.Repository.genruntimeconfig.cache

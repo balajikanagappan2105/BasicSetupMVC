@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry/EffortEntry.csproj": {}
+  },
+  "projects": {
+    "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Domain/EffortEntry.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Domain/EffortEntry.Domain.csproj",
+        "projectName": "EffortEntry.Domain",
+        "projectPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Domain/EffortEntry.Domain.csproj",
+        "packagesPath": "/Users/balajikanagappan/.nuget/packages/",
+        "outputPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/balajikanagappan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Repository/EffortEntry.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Repository/EffortEntry.Repository.csproj",
+        "projectName": "EffortEntry.Repository",
+        "projectPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Repository/EffortEntry.Repository.csproj",
+        "packagesPath": "/Users/balajikanagappan/.nuget/packages/",
+        "outputPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/balajikanagappan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Services/EffortEntry.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Services/EffortEntry.Services.csproj",
+        "projectName": "EffortEntry.Services",
+        "projectPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Services/EffortEntry.Services.csproj",
+        "packagesPath": "/Users/balajikanagappan/.nuget/packages/",
+        "outputPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/balajikanagappan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Domain/EffortEntry.Domain.csproj": {
+                "projectPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Domain/EffortEntry.Domain.csproj"
+              },
+              "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Repository/EffortEntry.Repository.csproj": {
+                "projectPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Repository/EffortEntry.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry/EffortEntry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry/EffortEntry.csproj",
+        "projectName": "EffortEntry",
+        "projectPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry/EffortEntry.csproj",
+        "packagesPath": "/Users/balajikanagappan/.nuget/packages/",
+        "outputPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/balajikanagappan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Repository/EffortEntry.Repository.csproj": {
+                "projectPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Repository/EffortEntry.Repository.csproj"
+              },
+              "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Services/EffortEntry.Services.csproj": {
+                "projectPath": "/Users/balajikanagappan/Development/Projects/Kumaresan/EffortEntry/EffortEntry.Services/EffortEntry.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.12, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
